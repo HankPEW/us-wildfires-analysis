@@ -45,7 +45,7 @@
 
 1. **Клонировать репозиторий:**
    ```bash
-   git clone [https://github.com/HankPEW/us-wildfires-analysis.git](https://github.com/HankPEW/us-wildfires-analysis.git)
+   git clone https://github.com/HankPEW/us-wildfires-analysis.git
    cd us-wildfires-analysis
 
 2. **Скачать датасет:**
